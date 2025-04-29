@@ -1,0 +1,18 @@
+# Global ignores
+.DS_Store
+.env
+.env.local
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Vite / React
+frontend/dist/
+
+# Logs
+logs
+*.log
+
+# OS
+Thumbs.db
